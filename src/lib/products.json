@@ -104,11 +104,19 @@
     "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400"
   },
   {
-    "id": 14,
     "name": "Google Pixel 9",
     "category": "smartphones",
     "price": 699,
     "description": "Pure Android experience with exceptional camera and AI capabilities.",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+    "id": 14
+  },
+  {
+    "name": "huawei",
+    "category": "smartphones",
+    "price": 300,
+    "description": "Best Phone In Town",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=Vdev144C&id=79467B8C59E66A827851BEB163EF0D684A51690F&thid=OIP.Vdev144Cjn6XrooxMHoJuAHaHa&mediaurl=https%3a%2f%2fconsumer.huawei.com%2fcontent%2fdam%2fhuawei-cbg-site%2fcommon%2fmkt%2fplp-x%2fphones%2fwinter-2024-new-product-launch%2fphones-new%2fimages%2fall-phones%2fall-huawei-nova12i.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.55d7afd78e028e7e97ae8a31307a09b8%3frik%3dD2lRSmgN72Oxvg%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=huawei+phones&FORM=IRPRST&ck=A1FC1BF93E7FB2A85565A8E16AA4EAFA&selectedIndex=1&itb=1",
+    "id": 15
   }
 ]
