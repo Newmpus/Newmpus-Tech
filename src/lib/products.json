@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "category": "smartphones",
+    "price": 999,
+    "description": "The latest iPhone with advanced camera system and A17 Pro chip.",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "smartphones",
+    "price": 799,
+    "description": "Powerful Android smartphone with stunning display and camera.",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400"
+  },
+  {
+    "id": 3,
+    "name": "iPhone Screen Protector",
+    "category": "phone-parts",
+    "price": 19,
+    "description": "Tempered glass screen protector for iPhone models.",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Charger",
+    "category": "phone-parts",
+    "price": 29,
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "category": "speakers",
+    "price": 79,
+    "description": "Portable waterproof Bluetooth speaker with 360-degree sound.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400"
+  },
+  {
+    "id": 6,
+    "name": "Soundbar System",
+    "category": "speakers",
+    "price": 199,
+    "description": "5.1 surround sound system for immersive home entertainment.",
+    "image": "https://images.unsplash.com/photo-1545127398-14699f92334b?w=400"
+  },
+  {
+    "id": 7,
+    "name": "MacBook Pro 16\"",
+    "category": "laptops",
+    "price": 2499,
+    "description": "Powerful laptop for professionals with M3 chip and stunning display.",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400"
+  },
+  {
+    "id": 8,
+    "name": "Dell XPS 13",
+    "category": "laptops",
+    "price": 1299,
+    "description": "Ultra-portable laptop with Intel Core i7 and InfinityEdge display.",
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=400"
+  },
+  {
+    "id": 9,
+    "name": "USB-C Cable",
+    "category": "accessories",
+    "price": 15,
+    "description": "Durable USB-C to USB-C cable for fast charging and data transfer.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+  },
+  {
+    "id": 10,
+    "name": "Phone Case",
+    "category": "accessories",
+    "price": 25,
+    "description": "Protective silicone case with card holder for smartphones.",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=400"
+  },
+  {
+    "id": 11,
+    "name": "iPhone 16",
+    "category": "smartphones",
+    "price": 1099,
+    "description": "The latest iPhone 16 with advanced features and A18 chip.",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400"
+  },
+  {
+    "id": 12,
+    "name": "iPhone 16 Pro",
+    "category": "smartphones",
+    "price": 1199,
+    "description": "Pro model with titanium design and professional camera system.",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400"
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy S25",
+    "category": "smartphones",
+    "price": 899,
+    "description": "Next-generation Galaxy with AI features and ultra-fast performance.",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400"
+  },
+  {
+    "id": 14,
+    "name": "Google Pixel 9",
+    "category": "smartphones",
+    "price": 699,
+    "description": "Pure Android experience with exceptional camera and AI capabilities.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+  }
+]
