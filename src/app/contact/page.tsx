@@ -20,7 +20,7 @@ export default function Contact() {
               Contact via WhatsApp
             </a>
             <a
-              href="mailto:contact@gadgetstore.com"
+              href="mailto:nyumbucy@gmail.com"
               className="block w-full bg-blue-500 text-white text-center py-2 px-4 rounded-md hover:bg-blue-600 transition duration-200"
             >
               Send Email
