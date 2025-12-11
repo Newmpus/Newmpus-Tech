@@ -21,12 +21,12 @@ export default function Nav() {
               GadgetStore
             </Link>
           </div>
-          <div className="flex items-center space-x-2 md:space-x-4">
-            <div className="relative hidden sm:block">
+          <div className="flex items-center space-x-4">
+            <div className="relative">
               <input
                 type="text"
                 placeholder="Search products..."
-                className="w-48 md:w-64 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-gray-800 dark:border-gray-600 dark:text-white"
+                className="w-64 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-gray-800 dark:border-gray-600 dark:text-white"
               />
               <Search className="absolute right-3 top-2.5 h-5 w-5 text-gray-400" />
             </div>
@@ -38,7 +38,7 @@ export default function Nav() {
             </button>
           </div>
         </div>
-        <div className="flex flex-wrap space-x-4 md:space-x-8 space-y-2 md:space-y-0 py-4">
+        <div className="flex space-x-8 py-4">
           <Link href="/categories/smartphones" className="text-gray-700 dark:text-gray-300 hover:text-blue-600">Smartphones</Link>
           <Link href="/categories/phone-parts" className="text-gray-700 dark:text-gray-300 hover:text-blue-600">Phone Parts</Link>
           <Link href="/categories/speakers" className="text-gray-700 dark:text-gray-300 hover:text-blue-600">Speakers</Link>
