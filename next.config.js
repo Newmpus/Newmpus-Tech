@@ -10,10 +10,19 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'via.placeholder.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'www.bing.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'consumer.huawei.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'th.bing.com',
+      },
     ],
-  },
-  turbopack: {
-    root: process.cwd(),
   },
 }
 
